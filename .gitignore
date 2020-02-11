@@ -1,0 +1,4 @@
+# These files are ephemeral and should not be tracked
+*.blend1
+*.ktc
+*.pyc
